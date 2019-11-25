@@ -1,0 +1,32 @@
+_repo: Jenny-A-Novel_60741
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Emmé, W.
+    gutenberg_agent_id: '51116'
+    url: http://www.gutenberg.org/2009/agents/51116
+creator:
+  author:
+    agent_name: Undset, Sigrid
+    aliases:
+    - Unset, Sigrid
+    - Svarstad, Sigrid Undset
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '35742'
+    url: http://www.gutenberg.org/2009/agents/35742
+description: ''
+gutenberg_issued: '2019-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jenny
+
+  A Novel'
+url: http://www.gutenberg.org/ebooks/60741
